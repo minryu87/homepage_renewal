@@ -21,27 +21,27 @@ export default function Services() {
   const coreServices = [
     {
       icon: FileText,
-      name: "메디컨텐츠 시스템",
-      value: "의료진의 시간은 환자 진료에, 콘텐츠는 전문가에게",
-      features: ["콘텐츠 전략 수립 및 작성", "콘텐츠 SEO 최적화", "의료법 준수 검토"]
+      name: "AI 기반 메디컨텐츠 시스템",
+      value: "머신러닝과 자연어 처리를 활용한 자동화된 의료 콘텐츠 제작",
+      features: ["AI 콘텐츠 전략 수립", "AI SEO 최적화", "AI 의료법 준수 검토"]
     },
     {
       icon: Globe,
-      name: "홈페이지 제작 및 모니터링",
-      value: "환자가 찾기 쉽고 신뢰할 수 있는 온라인 병원",
-      features: ["의료기관 특화 디자인", "SEO 기반 웹사이트 구축", "지속적 모니터링"]
+      name: "AI 기반 홈페이지 제작 및 모니터링",
+      value: "머신러닝 기반 SEO 최적화와 실시간 성과 분석",
+      features: ["AI 의료기관 특화 디자인", "AI SEO 기반 웹사이트 구축", "AI 지속적 모니터링"]
     },
     {
       icon: Shield,
-      name: "평판 관리 및 리뷰부스팅",
-      value: "온라인에서 만들어지는 병원의 첫인상을 관리합니다",
-      features: ["온라인 평판 관리", "리뷰부스팅", "고객 VOC 분석"]
+      name: "AI 기반 평판 관리 및 리뷰부스팅",
+      value: "자연어 처리와 감정 분석을 활용한 지능형 평판 관리",
+      features: ["AI 온라인 평판 관리", "AI 리뷰부스팅", "AI 고객 VOC 분석"]
     },
     {
       icon: BarChart3,
-      name: "데이터 기반 성과 분석",
-      value: "모든 마케팅 활동을 측정하고 개선합니다",
-      features: ["통합 데이터 분석", "실시간 모니터링", "맞춤형 리포팅"]
+      name: "AI 기반 빅데이터 성과 분석",
+      value: "머신러닝과 예측 분석을 활용한 지능형 마케팅 최적화",
+      features: ["AI 통합 데이터 분석", "AI 실시간 모니터링", "AI 맞춤형 리포팅"]
     }
   ];
 
@@ -75,47 +75,47 @@ export default function Services() {
   const solutions = [
     {
       problem: "의료법 때문에 마케팅이 두렵습니다",
-      solution: "의료법 준수 마케팅 시스템",
+      solution: "AI 기반 의료법 준수 마케팅 시스템",
       results: [
-        "의료법 위반 리스크 99% 차단",
-        "안전하면서도 효과적인 마케팅 콘텐츠 제작",
-        "법적 문제 걱정 없는 적극적 마케팅 가능"
+        "AI 의료법 위반 리스크 99% 차단",
+        "AI 기반 안전하고 효과적인 마케팅 콘텐츠 제작",
+        "AI 법적 문제 걱정 없는 적극적 마케팅 가능"
       ]
     },
     {
       problem: "개원한 지 얼마 안 되어 환자 유입이 걱정됩니다",
-      solution: "신규 병원 런칭 패키지",
+      solution: "AI 기반 신규 병원 런칭 패키지",
       results: [
-        "개원 3개월 내 신환 200% 증가",
-        "네이버 지역 검색 상위 노출 달성",
-        "온라인 평점 4.5점 이상 유지"
+        "AI 기반 개원 3개월 내 신환 200% 증가",
+        "AI 네이버 지역 검색 상위 노출 달성",
+        "AI 온라인 평점 4.5점 이상 유지"
       ]
     },
     {
       problem: "홈페이지가 검색에 전혀 안 나옵니다",
-      solution: "SEO 최적화 홈페이지 구축",
+      solution: "AI 기반 SEO 최적화 홈페이지 구축",
       results: [
-        "3개월 내 주요 키워드 네이버/구글 1페이지 진입",
-        "홈페이지 방문자 300% 증가",
-        "검색을 통한 예약 문의 500% 증가"
+        "AI 기반 3개월 내 주요 키워드 네이버/구글 1페이지 진입",
+        "AI 홈페이지 방문자 300% 증가",
+        "AI 검색을 통한 예약 문의 500% 증가"
       ]
     },
     {
       problem: "콘텐츠 만드는 데 시간도 많이 걸리고 비용도 부담됩니다",
-      solution: "자동화 콘텐츠 생산 시스템",
+      solution: "AI 기반 자동화 콘텐츠 생산 시스템",
       results: [
-        "콘텐츠 제작 시간 95% 단축",
-        "콘텐츠 제작 비용 70% 절감",
-        "일정한 품질의 전문 콘텐츠 지속 발행"
+        "AI 콘텐츠 제작 시간 95% 단축",
+        "AI 콘텐츠 제작 비용 70% 절감",
+        "AI 기반 일정한 품질의 전문 콘텐츠 지속 발행"
       ]
     },
     {
       problem: "온라인 평판 관리가 너무 어렵습니다",
-      solution: "통합 평판 관리 시스템",
+      solution: "AI 기반 통합 평판 관리 시스템",
       results: [
-        "긍정 리뷰 300% 증가",
-        "평균 평점 4.8점 달성 및 유지",
-        "평판으로 인한 환자 이탈 90% 감소"
+        "AI 긍정 리뷰 300% 증가",
+        "AI 평균 평점 4.8점 달성 및 유지",
+        "AI 평판으로 인한 환자 이탈 90% 감소"
       ]
     }
   ];
@@ -129,10 +129,11 @@ export default function Services() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6">
-              병원 마케팅을 위한 통합 솔루션
+              AI 기반 병원 마케팅 통합 솔루션
             </h1>
             <p className="text-xl text-gray-600 mb-8">
-              의료법 준수부터 환자 유입까지, 병원 온라인 마케팅의 모든 것을 해결합니다.
+              머신러닝과 빅데이터 분석을 활용한 의료법 준수부터 환자 유입까지, 
+              병원 온라인 마케팅의 모든 것을 기술적으로 해결합니다.
             </p>
           </div>
         </div>
@@ -142,7 +143,7 @@ export default function Services() {
       <section className="py-20 bg-white">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">핵심 서비스 4가지</h2>
+            <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">AI 기반 핵심 서비스 4가지</h2>
           </div>
           
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 max-w-6xl mx-auto">
@@ -202,7 +203,7 @@ export default function Services() {
       <section className="py-20 bg-white">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">문제별 맞춤 솔루션</h2>
+            <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">AI 기반 문제별 맞춤 솔루션</h2>
           </div>
           
           <div className="space-y-8 max-w-6xl mx-auto">
@@ -243,7 +244,7 @@ export default function Services() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center text-white">
             <h2 className="text-3xl sm:text-4xl font-bold mb-6">
-              All-in-One 병원 마케팅 패키지
+              AI 기반 All-in-One 병원 마케팅 패키지
             </h2>
             
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mt-12">
@@ -255,23 +256,23 @@ export default function Services() {
                   <ul className="space-y-3 text-left">
                     <li className="flex items-center">
                       <CheckCircle className="w-5 h-5 mr-3 flex-shrink-0" />
-                      의료법 준수 콘텐츠 제작 (월 30개)
+                      AI 기반 의료법 준수 콘텐츠 제작 (월 30개)
                     </li>
                     <li className="flex items-center">
                       <CheckCircle className="w-5 h-5 mr-3 flex-shrink-0" />
-                      SEO 최적화 홈페이지 구축 및 관리
+                      AI SEO 최적화 홈페이지 구축 및 관리
                     </li>
                     <li className="flex items-center">
                       <CheckCircle className="w-5 h-5 mr-3 flex-shrink-0" />
-                      통합 평판 관리 및 리뷰 부스팅
+                      AI 통합 평판 관리 및 리뷰 부스팅
                     </li>
                     <li className="flex items-center">
                       <CheckCircle className="w-5 h-5 mr-3 flex-shrink-0" />
-                      실시간 성과 분석 대시보드
+                      AI 실시간 성과 분석 대시보드
                     </li>
                     <li className="flex items-center">
                       <CheckCircle className="w-5 h-5 mr-3 flex-shrink-0" />
-                      월 1회 전략 미팅 및 리포팅
+                      AI 기반 월 1회 전략 미팅 및 리포팅
                     </li>
                   </ul>
                 </CardContent>
@@ -284,15 +285,15 @@ export default function Services() {
                 <CardContent className="space-y-4 text-left">
                   <div>
                     <Badge variant="secondary" className="mb-2">3개월</Badge>
-                    <p>신환 200% 증가, 온라인 노출 500% 증가</p>
+                    <p>AI 기반 신환 200% 증가, 온라인 노출 500% 증가</p>
                   </div>
                   <div>
                     <Badge variant="secondary" className="mb-2">6개월</Badge>
-                    <p>지역 내 Top 3 병원 온라인 인지도 달성</p>
+                    <p>AI 기반 지역 내 Top 3 병원 온라인 인지도 달성</p>
                   </div>
                   <div>
                     <Badge variant="secondary" className="mb-2">12개월</Badge>
-                    <p>마케팅비 대비 300% ROI 달성</p>
+                    <p>AI 기반 마케팅비 대비 300% ROI 달성</p>
                   </div>
                 </CardContent>
               </Card>
